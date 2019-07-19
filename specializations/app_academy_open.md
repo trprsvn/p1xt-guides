@@ -4,7 +4,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Welcome To Coding                           Done          x                                                                                                                     |            |              |
+| Welcome To Coding                                                                                                                                                               |  Done      |      x        |
 | Full Stack Online - Intro to Programming                                                                                                                                        |   Done         |    https://trprsvn.github.io/2019/07/19/Intro-to-Programming.html          |
 | Full Stack Online - Software Engineering Foundations                                                                                                                            |            |              |
 | Full Stack Online - Ruby                                                                                                                                                        |            |              |
